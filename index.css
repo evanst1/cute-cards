@@ -7,8 +7,9 @@
     height: 500px !important;
     background-position: center !important;
     background-size: cover !important;
-    width: 100% !important;
+    width: 50% !important;
     border-radius: 180px !important;
+    margin: 0 auto !important;
 }
 .innercard1{
     color: #fff !important;
@@ -18,7 +19,6 @@
     backdrop-filter: blur(10px);
     position: relative;
     top: 62px;
-    /*border: 1px solid white;*/
     font-size: 2rem!important;
     display: flex;
     flex-direction: column;
@@ -43,3 +43,18 @@ p{
 .cardone:hover {
     filter: drop-shadow(4px 23px 10px #b7b7a4)
  }
+.cardy1{
+width:100% !important;
+display: flex !important;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.cardy2{
+    padding-top:2rem !important;
+
+}
