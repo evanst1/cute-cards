@@ -35,7 +35,7 @@
 .rotate {
     transform: rotate(180deg);
 }
-.row {
+.row-antonio {
     display: flex;
     flex-flow: row wrap;
 }
@@ -104,7 +104,7 @@
 .offset-3 {
     margin-left: -5%;
 }
-.row {
+.row-antonio {
     display: flex;
     flex-flow: row wrap;
     align-items: center;
@@ -127,7 +127,7 @@
 .card:hover .number {
     color: #fff;
 }
-.row:hover {
+.row-antonio:hover {
     letter-spacing: 75px;
 }
 
