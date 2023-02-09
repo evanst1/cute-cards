@@ -1,7 +1,7 @@
 .cardcontain{
     padding-top: 2rem!important;
 }
-
+/*card one details*/
 .cardone {
     background: url('marialaura-gionfriddo-II3Vo7MJ9Z0-unsplash.jpg');
     height: 500px !important;
@@ -42,6 +42,7 @@ p{
 .cardone:hover {
     filter: drop-shadow(4px 23px 10px #b7b7a4)
  }
+ /*card one details*/
 .cardy1{
 width:100% !important;
 display: flex !important;
@@ -81,5 +82,4 @@ display: flex !important;
     justify-content: center;
     align-items: center;
     margin: 0 auto;
-
 }
