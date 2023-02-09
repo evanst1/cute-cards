@@ -53,9 +53,17 @@ display: flex !important;
     align-items: center;
 
 }
+ /*card two details*/
 
 .cardy2{
     padding-top:2rem !important;
+        width:100% !important;
+        display: flex !important;
+            flex-direction: row;
+            flex-wrap: wrap;
+            align-content: center;
+            justify-content: center;
+            align-items: center;
 
 }
 
