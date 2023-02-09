@@ -13,12 +13,11 @@
 }
 .innercard1{
     color: #fff !important;
-    padding: 70px !important;
-    width: 100% !important;
+    padding: 50px !important;
     width: 80% !important;
     backdrop-filter: blur(10px);
     position: relative;
-    top: 62px;
+    top: 79px;
     font-size: 2rem!important;
     display: flex;
     flex-direction: column;
