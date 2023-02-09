@@ -56,6 +56,15 @@ display: flex !important;
 
 }
  /*card two details*/
+ .cardy2{
+    width:100% !important;
+    display: flex !important;
+        flex-direction: row;
+        flex-wrap: wrap;
+        align-content: center;
+        justify-content: center;
+        align-items: center;  
+}
 
  .cardtwo {
     background: url('/sppookcity.jpeg');
@@ -63,7 +72,6 @@ display: flex !important;
     background-position: center !important;
     background-size: cover !important;
     width: 50% !important;
-    border-radius: 180px !important;
     margin: 0 auto !important;
 }
 /*
@@ -84,13 +92,5 @@ display: flex !important;
     margin: 0 auto;
 }
 */
-.cardy2{
-    width:100% !important;
-    display: flex !important;
-        flex-direction: row;
-        flex-wrap: wrap;
-        align-content: center;
-        justify-content: center;
-        align-items: center;  
-}
+
 
