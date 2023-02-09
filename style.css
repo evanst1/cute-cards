@@ -57,3 +57,29 @@ display: flex !important;
     padding-top:2rem !important;
 
 }
+
+.cardtwo {
+    background: url('/sppookcity.jpeg');
+    height: 500px !important;
+    background-position: center !important;
+    background-size: cover !important;
+    width: 50% !important;
+    border-radius: 180px !important;
+    margin: 0 auto !important;
+}
+
+.innercard2{
+    padding: 50px !important;
+    width: 80% !important;
+    position: relative;
+    top: 79px;
+    font-size: 2rem!important;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+
+}
