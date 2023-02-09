@@ -66,6 +66,7 @@ display: flex !important;
     border-radius: 180px !important;
     margin: 0 auto !important;
 }
+/*
 .innercard2{
     color: #fff !important;
     padding: 50px !important;
@@ -82,7 +83,7 @@ display: flex !important;
     align-items: center;
     margin: 0 auto;
 }
-
+*/
 .cardy2{
     width:100% !important;
     display: flex !important;
